@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\School\\Técnicas de Desenvolvimento de Vídeojogos\\ExInput\\ExInput\\ExInput.csproj": {}
+    "D:\\Git\\Input-Exercicio\\ExInput\\ExInput\\ExInput.csproj": {}
   },
   "projects": {
-    "D:\\School\\Técnicas de Desenvolvimento de Vídeojogos\\ExInput\\ExInput\\ExInput.csproj": {
+    "D:\\Git\\Input-Exercicio\\ExInput\\ExInput\\ExInput.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\School\\Técnicas de Desenvolvimento de Vídeojogos\\ExInput\\ExInput\\ExInput.csproj",
+        "projectUniqueName": "D:\\Git\\Input-Exercicio\\ExInput\\ExInput\\ExInput.csproj",
         "projectName": "ExInput",
-        "projectPath": "D:\\School\\Técnicas de Desenvolvimento de Vídeojogos\\ExInput\\ExInput\\ExInput.csproj",
+        "projectPath": "D:\\Git\\Input-Exercicio\\ExInput\\ExInput\\ExInput.csproj",
         "packagesPath": "C:\\Users\\huawei\\.nuget\\packages\\",
-        "outputPath": "D:\\School\\Técnicas de Desenvolvimento de Vídeojogos\\ExInput\\ExInput\\obj\\",
+        "outputPath": "D:\\Git\\Input-Exercicio\\ExInput\\ExInput\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
